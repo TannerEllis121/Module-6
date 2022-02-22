@@ -1,3 +1,5 @@
-address {
-  text-align: right;
+.footie {
+  position:absolute;
+bottom:0;
+right:0;
 }
